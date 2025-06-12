@@ -1,7 +1,20 @@
 img {
-    width: 100%;
+  width: 100%;
 }
 
 p {
-    color: blueviolet
+  color: blueviolet;
+  background-color: blanchedalmond;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+ul {
+  text-align: center;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
